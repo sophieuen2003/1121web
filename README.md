@@ -5,9 +5,9 @@
 ### 系級：科技系2年級
 
 ## 課程筆記區
-  9/12 - HW1 靜態網站 : [Sophie's website](https://sophieuen2003.github.io/mypage/)
-## 作業連結區
 
+## 作業連結區
+  9/12 - HW1 靜態網站 : [Sophie's website](https://sophieuen2003.github.io/mypage/)
 ## 專題連結區
 
 
