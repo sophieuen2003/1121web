@@ -11,7 +11,8 @@
   
   10/3 - HW2 MySQL crud : [HW2 影片](https://youtu.be/O_Lxd2gunDI)
 
-  10/17 - HW3 JavaScript小套件 : [退休準備計算機](https://sophieuen2003.github.io/mypage/RetirementSaving.html)
-## 專題連結區
+  10/17 - HW3 JavaScript小套件 : [HW3 影片](https://youtu.be/jfj3NCxgSYI)&ensp;[退休準備計算機](https://sophieuen2003.github.io/mypage/RetirementSaving.html)
+
+  10/31 - HW4 上傳至Azure運行 : [HW4 影片](https://youtu.be/yUGkcIN8INc)
 
 
